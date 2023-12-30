@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Links de exemplo: https://github.com/ReinanS/BMI_Calculator/tree/main - tem classe
+
+https://medium.com/flutter-comunidade-br/desenvolvendo-meu-primeiro-aplicativo-com-flutter-918a15e73a01
+
+https://acervolima.com/flutter-widgets-personalizados/ - botao de limpar e calcular
