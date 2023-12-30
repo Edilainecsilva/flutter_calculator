@@ -1,6 +1,26 @@
-# flutter_calculator
 
-A new Flutter project.
+# Flutter - Calculadora IMC
+
+Olá pessoal! E vamos de mais um desafio da DIO, o Desafio é criar uma calculadora simples para calcular o IMC (Índice de Massa Corporal) de uma pessoa utilizando a linguagem Dart e o Flutter. 
+ 
+## Checklist do Desafio
+
+    -Criar classe Pessoa (Nome / Peso / Altura)​
+
+    -Ler dados do terminal​
+
+    -Tratar exceções​
+
+    -Calcular IMC ​
+
+    -Printar na tela o resultado do cálculo​
+
+    -Testes​
+
+
+## Projeto em construção 
+    Estou ainda organizando a criação das telas, classe Pessoa e manipulação de dados. Projeto ainda em andamento. 
+![Captura de tela 2023-12-30 124605](https://github.com/Edilainecsilva/flutter_calculator/assets/112878712/c38e2e04-21a5-4d47-a74d-78878ba0ad4f)
 
 ## Getting Started
 
